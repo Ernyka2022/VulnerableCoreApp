@@ -1,0 +1,11 @@
+Ë
+-VulnerableCoreApp.ViewModels.CommentViewModelobjectV
+CommentViewModel()@VulnerableCoreApp.ViewModels.CommentViewModel.CommentViewModel()>
+ID.get4VulnerableCoreApp.ViewModels.CommentViewModel.ID.get>
+ID.set4VulnerableCoreApp.ViewModels.CommentViewModel.ID.setJ
+Username.get:VulnerableCoreApp.ViewModels.CommentViewModel.Username.getJ
+Username.set:VulnerableCoreApp.ViewModels.CommentViewModel.Username.setL
+CreatedAt.get;VulnerableCoreApp.ViewModels.CommentViewModel.CreatedAt.getL
+CreatedAt.set;VulnerableCoreApp.ViewModels.CommentViewModel.CreatedAt.setB
+Text.get6VulnerableCoreApp.ViewModels.CommentViewModel.Text.getB
+Text.set6VulnerableCoreApp.ViewModels.CommentViewModel.Text.set

@@ -1,0 +1,164 @@
+
+sVulnerableCoreApp.Controllers.CrossSiteScriptingController.DemoTypeI(VulnerableCoreApp.ViewModels.CommentViewModel)o
+eC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Controllers\CrossSiteScriptingController.cs   (&"2*£
+0o
+eC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Controllers\CrossSiteScriptingController.cs" )(/¾»
+o
+eC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Controllers\CrossSiteScriptingController.cs"! "(.&
+%0 VulnerableCoreApp.Models.Comment" VulnerableCoreApp.Models.CommentÖ
+Ó
+o
+eC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Controllers\CrossSiteScriptingController.cs"% "(,
+
+%1void"*VulnerableCoreApp.Models.Comment.Comment()*(
+&
+%0 VulnerableCoreApp.Models.CommentÔ
+Ñ
+o
+eC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Controllers\CrossSiteScriptingController.cs" "(..
+
+newComment VulnerableCoreApp.Models.Comment"__id*(
+&
+%0 VulnerableCoreApp.Models.Comment¯
+¬
+o
+eC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Controllers\CrossSiteScriptingController.cs# #(*
+%2System.Guid"System.Guid.NewGuid()*"
+System.Guid¯
+¬
+o
+eC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Controllers\CrossSiteScriptingController.cs# #(5
+%3string"System.Guid.ToString()*
+
+%2System.Guidí
+ê
+o
+eC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Controllers\CrossSiteScriptingController.cs# #(5
+%4string"'VulnerableCoreApp.Models.Comment.ID.set*0
+.
+
+newComment VulnerableCoreApp.Models.Comment*
+
+%3stringò
+ï
+o
+eC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Controllers\CrossSiteScriptingController.cs$ $(-
+%5string"-VulnerableCoreApp.Models.Comment.Username.set*0
+.
+
+newComment VulnerableCoreApp.Models.Comment*
+	Anonymous¹
+¶
+o
+eC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Controllers\CrossSiteScriptingController.cs%# %(/
+%6System.DateTime"System.DateTime.Now.get*"
+System.DateTime†
+ƒ
+o
+eC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Controllers\CrossSiteScriptingController.cs% %(/
+%7System.DateTime".VulnerableCoreApp.Models.Comment.CreatedAt.set*0
+.
+
+newComment VulnerableCoreApp.Models.Comment*
+
+%6System.DateTimeö
+ó
+o
+eC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Controllers\CrossSiteScriptingController.cs& &(*
+%8string"6VulnerableCoreApp.ViewModels.CommentViewModel.Text.get*:
+8
+comment-VulnerableCoreApp.ViewModels.CommentViewModelï
+ì
+o
+eC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Controllers\CrossSiteScriptingController.cs& &(*
+%9string")VulnerableCoreApp.Models.Comment.Text.set*0
+.
+
+newComment VulnerableCoreApp.Models.Comment*
+
+%8string¿
+¼
+o
+eC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Controllers\CrossSiteScriptingController.cs' '(7
+%100VulnerableCoreApp.Repository.ICommentsRepository"__id*‰*†<
+:VulnerableCoreApp.Controllers.CrossSiteScriptingController"F
+commentsRepository0VulnerableCoreApp.Repository.ICommentsRepository‹ˆ
+o
+eC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Controllers\CrossSiteScriptingController.cs' '(/'
+%11 VulnerableCoreApp.Models.Comment"WVulnerableCoreApp.Repository.ICommentsRepository.Save(VulnerableCoreApp.Models.Comment)*9
+7
+%100VulnerableCoreApp.Repository.ICommentsRepository*0
+.
+
+newComment VulnerableCoreApp.Models.Comment2&Save(VulnerableCoreApp.Models.Comment)ÄÁ
+o
+eC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Controllers\CrossSiteScriptingController.cs) )(06
+%12/Microsoft.AspNetCore.Mvc.RedirectToActionResult"@Microsoft.AspNetCore.Mvc.ControllerBase.RedirectToAction(string)*+)
+'Microsoft.AspNetCore.Mvc.ControllerBase*
+	DemoTypeI2RedirectToAction(string)"«
+o
+eC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Controllers\CrossSiteScriptingController.cs) )(18
+6
+%12/Microsoft.AspNetCore.Mvc.RedirectToActionResult*ý
+1o
+eC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Controllers\CrossSiteScriptingController.cs*	 *(	"†
+o
+eC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Controllers\CrossSiteScriptingController.cs* *(	
+implicit return*ñ
+2o
+eC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Controllers\CrossSiteScriptingController.cs @  (@Ý
+Ú
+o
+eC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Controllers\CrossSiteScriptingController.cs   (&Y
+8
+comment-VulnerableCoreApp.ViewModels.CommentViewModel"
+<ID>k__BackingFieldstring"__entrypointÌ
+É
+o
+eC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Controllers\CrossSiteScriptingController.cs   (&H
+8
+comment-VulnerableCoreApp.ViewModels.CommentViewModel"
+IDstring"__entrypointã
+à
+o
+eC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Controllers\CrossSiteScriptingController.cs   (&_
+8
+comment-VulnerableCoreApp.ViewModels.CommentViewModel"#
+<Username>k__BackingFieldstring"__entrypointÒ
+Ï
+o
+eC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Controllers\CrossSiteScriptingController.cs   (&N
+8
+comment-VulnerableCoreApp.ViewModels.CommentViewModel"
+Usernamestring"__entrypointí
+ê
+o
+eC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Controllers\CrossSiteScriptingController.cs   (&i
+8
+comment-VulnerableCoreApp.ViewModels.CommentViewModel"-
+<CreatedAt>k__BackingFieldSystem.DateTime"__entrypointÜ
+Ù
+o
+eC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Controllers\CrossSiteScriptingController.cs   (&X
+8
+comment-VulnerableCoreApp.ViewModels.CommentViewModel"
+	CreatedAtSystem.DateTime"__entrypointß
+Ü
+o
+eC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Controllers\CrossSiteScriptingController.cs   (&[
+8
+comment-VulnerableCoreApp.ViewModels.CommentViewModel"
+<Text>k__BackingFieldstring"__entrypointÎ
+Ë
+o
+eC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Controllers\CrossSiteScriptingController.cs   (&J
+8
+comment-VulnerableCoreApp.ViewModels.CommentViewModel"
+Textstring"__entrypoint‰
+†
+o
+eC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Controllers\CrossSiteScriptingController.cs   (&
+%13"__entrypoint*
+0:8
+comment-VulnerableCoreApp.ViewModels.CommentViewModelB><
+:VulnerableCoreApp.Controllers.CrossSiteScriptingController

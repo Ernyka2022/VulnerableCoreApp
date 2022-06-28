@@ -1,0 +1,35 @@
+
+0VulnerableCoreApp.Program.BuildWebHost(string[])N
+DC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Program.cs (+"0*¾
+0N
+DC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Program.cs (-ú
+÷
+N
+DC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Program.cs (.2
+%0,Microsoft.AspNetCore.Hosting.IWebHostBuilder";Microsoft.AspNetCore.WebHost.CreateDefaultBuilder(string[])* "
+Microsoft.AspNetCore.WebHost*
+
+argsstring[]ò
+ï
+N
+DC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Program.cs (&2
+%1,Microsoft.AspNetCore.Hosting.IWebHostBuilder"xMicrosoft.AspNetCore.Hosting.WebHostBuilderExtensions.UseStartup<TStartup>(Microsoft.AspNetCore.Hosting.IWebHostBuilder)*9"7
+5Microsoft.AspNetCore.Hosting.WebHostBuilderExtensions*4
+2
+%0,Microsoft.AspNetCore.Hosting.IWebHostBuilderõò
+N
+DC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Program.cs (+
+%2%Microsoft.AspNetCore.Hosting.IWebHost"4Microsoft.AspNetCore.Hosting.IWebHostBuilder.Build()*4
+2
+%1,Microsoft.AspNetCore.Hosting.IWebHostBuilder2Build()"
+N
+DC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Program.cs (-
++
+%2%Microsoft.AspNetCore.Hosting.IWebHost*º
+1N
+DC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Program.cs ("e
+N
+DC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Program.cs (
+implicit return:
+argsstring[]B"
+VulnerableCoreApp.Program

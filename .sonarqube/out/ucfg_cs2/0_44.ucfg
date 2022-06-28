@@ -1,0 +1,148 @@
+
+4VulnerableCoreApp.Controllers.HomeController.Error()a
+WC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Controllers\HomeController.cs (""6*Â
+0a
+WC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Controllers\HomeController.cs (Iæª
+a
+WC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Controllers\HomeController.cs (n-
+%0'VulnerableCoreApp.Models.ErrorViewModel"'VulnerableCoreApp.Models.ErrorViewModel›
+⁄
+a
+WC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Controllers\HomeController.cs (*
+
+%1void"8VulnerableCoreApp.Models.ErrorViewModel.ErrorViewModel()*/
+-
+%0'VulnerableCoreApp.Models.ErrorViewModel”
+–
+a
+WC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Controllers\HomeController.cs9 (I!
+%2System.Diagnostics.Activity"'System.Diagnostics.Activity.Current.get*"
+System.Diagnostics.Activity*
+1
+2*´
+2a
+WC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Controllers\HomeController.csJ (MΩ
+∫
+a
+WC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Controllers\HomeController.csK (M
+%3string""System.Diagnostics.Activity.Id.get*#
+!
+%2System.Diagnostics.Activity*
+1*n
+1a
+WC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Controllers\HomeController.cs	 (	*
+3
+4*‚
+3a
+WC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Controllers\HomeController.csQ (l˘
+ˆ
+a
+WC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Controllers\HomeController.csQ (\+
+%7%Microsoft.AspNetCore.Http.HttpContext"7Microsoft.AspNetCore.Mvc.ControllerBase.HttpContext.get*+)
+'Microsoft.AspNetCore.Mvc.ControllerBaseﬁ
+€
+a
+WC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Controllers\HomeController.csQ (l
+%8string"9Microsoft.AspNetCore.Http.HttpContext.TraceIdentifier.get*-
++
+%7%Microsoft.AspNetCore.Http.HttpContextä
+á
+a
+WC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Controllers\HomeController.csQ (l
+%6string"__id*
+
+%8stringä
+á
+a
+WC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Controllers\HomeController.csQ (l
+%4string"__id*
+
+%6string*
+4*ˇ
+4a
+WC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Controllers\HomeController.cs (lÏ
+È
+a
+WC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Controllers\HomeController.cs- (l
+%9string"5VulnerableCoreApp.Models.ErrorViewModel.RequestId.set*/
+-
+%0'VulnerableCoreApp.Models.ErrorViewModel*
+
+%4stringè
+å
+a
+WC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Controllers\HomeController.cs (o
+%10void"+vulnerablecoreapp-master/views/shared/error*
+
+%11*/
+-
+%0'VulnerableCoreApp.Models.ErrorViewModel*
+
+%ViewBagDataAllobject*
+
+%ViewBagDataHtmlobject*
+
+%TempDataAllobject*
+
+%TempDataHtmlobject* 
+
+%HttpContextItemsAllobject*!
+
+%HttpContextItemsHtmlobjectç
+ä
+a
+WC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Controllers\HomeController.cs (o
+%12void")vulnerablecoreapp-master/views/_viewstart*
+
+%13*/
+-
+%0'VulnerableCoreApp.Models.ErrorViewModel*
+
+%ViewBagDataAllobject*
+
+%ViewBagDataHtmlobject*
+
+%TempDataAllobject*
+
+%TempDataHtmlobject* 
+
+%HttpContextItemsAllobject*!
+
+%HttpContextItemsHtmlobjectë
+é
+a
+WC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Controllers\HomeController.cs (o
+%14void"-vulnerablecoreapp-master/views/shared/_layout*
+
+%15*/
+-
+%0'VulnerableCoreApp.Models.ErrorViewModel*
+
+%ViewBagDataAllobject*
+
+%ViewBagDataHtmlobject*
+
+%TempDataAllobject*
+
+%TempDataHtmlobject* 
+
+%HttpContextItemsAllobject*!
+
+%HttpContextItemsHtmlobject"r
+a
+WC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Controllers\HomeController.cs (p
+
+%14void*‡
+5a
+WC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Controllers\HomeController.cs	 (	"x
+a
+WC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Controllers\HomeController.cs (	
+implicit return*Á
+6a
+WC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Controllers\HomeController.cs$ ($z
+x
+a
+WC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Controllers\HomeController.cs ("
+%16"__entrypoint*
+0B0.
+,VulnerableCoreApp.Controllers.HomeController

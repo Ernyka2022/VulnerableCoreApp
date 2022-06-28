@@ -1,0 +1,11 @@
+·
+ VulnerableCoreApp.Models.Commentobject7
+	Comment()*VulnerableCoreApp.Models.Comment.Comment()1
+ID.get'VulnerableCoreApp.Models.Comment.ID.get1
+ID.set'VulnerableCoreApp.Models.Comment.ID.set=
+Username.get-VulnerableCoreApp.Models.Comment.Username.get=
+Username.set-VulnerableCoreApp.Models.Comment.Username.set?
+CreatedAt.get.VulnerableCoreApp.Models.Comment.CreatedAt.get?
+CreatedAt.set.VulnerableCoreApp.Models.Comment.CreatedAt.set5
+Text.get)VulnerableCoreApp.Models.Comment.Text.get5
+Text.set)VulnerableCoreApp.Models.Comment.Text.set

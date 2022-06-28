@@ -1,0 +1,49 @@
+
+>VulnerableCoreApp.Repository.CommentsRepository.Delete(string)d
+ZC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Repository\CommentsRepository.cs* *("0*Œ
+0d
+ZC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Repository\CommentsRepository.cs, ,(F€
+ý
+d
+ZC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Repository\CommentsRepository.cs, ,((
+%0"System.Collections.Generic.List<T>"__id*e*c1
+/VulnerableCoreApp.Repository.CommentsRepository".
+Comments"System.Collections.Generic.List<T>€
+ý
+d
+ZC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Repository\CommentsRepository.cs, ,($(
+%1"System.Collections.Generic.List<T>"__id*e*c1
+/VulnerableCoreApp.Repository.CommentsRepository".
+Comments"System.Collections.Generic.List<T>Þ
+Û
+d
+ZC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Repository\CommentsRepository.cs, ,(G/
+%2)System.Collections.Generic.IEnumerable<T>"rSystem.Linq.Enumerable.Where<TSource>(System.Collections.Generic.IEnumerable<TSource>, System.Func<TSource, bool>)*"
+System.Linq.Enumerable**
+(
+%1"System.Collections.Generic.List<T>*
+""¸
+µ
+d
+ZC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Repository\CommentsRepository.cs, ,(O&
+%3 VulnerableCoreApp.Models.Comment"VSystem.Linq.Enumerable.First<TSource>(System.Collections.Generic.IEnumerable<TSource>)*"
+System.Linq.Enumerable*1
+/
+%2)System.Collections.Generic.IEnumerable<T>ù
+ö
+d
+ZC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Repository\CommentsRepository.cs, ,(P
+
+%4bool",System.Collections.Generic.List<T>.Remove(T)**
+(
+%0"System.Collections.Generic.List<T>*(
+&
+%3 VulnerableCoreApp.Models.Comment*
+1*æ
+1d
+ZC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Repository\CommentsRepository.cs-	 -(	"{
+d
+ZC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Repository\CommentsRepository.cs- -(	
+implicit return:
+IDstringB31
+/VulnerableCoreApp.Repository.CommentsRepository

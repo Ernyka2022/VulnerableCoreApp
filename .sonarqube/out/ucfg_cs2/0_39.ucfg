@@ -1,0 +1,58 @@
+
+RVulnerableCoreApp.Controllers.CrossSiteScriptingController.DemoTypeIDelete(string)o
+eC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Controllers\CrossSiteScriptingController.cs- -(,"2*Æ	
+0o
+eC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Controllers\CrossSiteScriptingController.cs/ 1(/¾
+»
+o
+eC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Controllers\CrossSiteScriptingController.cs/ /(6
+%00VulnerableCoreApp.Repository.ICommentsRepository"__id*‰*†<
+:VulnerableCoreApp.Controllers.CrossSiteScriptingController"F
+commentsRepository0VulnerableCoreApp.Repository.ICommentsRepository›˜
+o
+eC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Controllers\CrossSiteScriptingController.cs/ /()
+
+%1void"?VulnerableCoreApp.Repository.ICommentsRepository.Delete(string)*8
+6
+%00VulnerableCoreApp.Repository.ICommentsRepository*
+
+IDstring2Delete(string)ÃÀ
+o
+eC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Controllers\CrossSiteScriptingController.cs1 1(05
+%2/Microsoft.AspNetCore.Mvc.RedirectToActionResult"@Microsoft.AspNetCore.Mvc.ControllerBase.RedirectToAction(string)*+)
+'Microsoft.AspNetCore.Mvc.ControllerBase*
+	DemoTypeI2RedirectToAction(string)"ª
+o
+eC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Controllers\CrossSiteScriptingController.cs1 1(17
+5
+%2/Microsoft.AspNetCore.Mvc.RedirectToActionResult*ý
+1o
+eC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Controllers\CrossSiteScriptingController.cs2	 2(	"†
+o
+eC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Controllers\CrossSiteScriptingController.cs2 2(	
+implicit return*Œ
+2o
+eC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Controllers\CrossSiteScriptingController.cs-7 -(7˜
+•
+o
+eC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Controllers\CrossSiteScriptingController.cs- -(,
+%3"__entrypoint*
+
+IDstringÚ
+×
+o
+eC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Controllers\CrossSiteScriptingController.cs,	 ,(
+%4"
+__annotate*B@
+>Microsoft.AspNetCore.Mvc.HttpPostAttribute.HttpPostAttribute()*
+
+IDstring˜
+•
+o
+eC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Controllers\CrossSiteScriptingController.cs-- -(6
+IDstring"__annotation*
+
+%4*
+0:
+IDstringB><
+:VulnerableCoreApp.Controllers.CrossSiteScriptingController

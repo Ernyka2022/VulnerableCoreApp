@@ -1,0 +1,7 @@
+õ
+VulnerableCoreApp.Startupobject’
+:Startup(Microsoft.Extensions.Configuration.IConfiguration)TVulnerableCoreApp.Startup.Startup(Microsoft.Extensions.Configuration.IConfiguration)º
+NConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)hVulnerableCoreApp.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)ù
+mConfigure(Microsoft.AspNetCore.Builder.IApplicationBuilder, Microsoft.AspNetCore.Hosting.IHostingEnvironment)‡VulnerableCoreApp.Startup.Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder, Microsoft.AspNetCore.Hosting.IHostingEnvironment)@
+Configuration.get+VulnerableCoreApp.Startup.Configuration.get@
+Configuration.set+VulnerableCoreApp.Startup.Configuration.set

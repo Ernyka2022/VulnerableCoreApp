@@ -1,0 +1,147 @@
+
+MVulnerableCoreApp.Controllers.CrossSiteScriptingController.DemoTypeII(string)o
+eC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Controllers\CrossSiteScriptingController.cs5 5('"2*¾
+0o
+eC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Controllers\CrossSiteScriptingController.cs7 ;(—”
+o
+eC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Controllers\CrossSiteScriptingController.cs7 7(
+%ViewBagDataAllobject"object˜•
+o
+eC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Controllers\CrossSiteScriptingController.cs7 7(
+%ViewBagDataHtmlobject"object¿
+¼
+o
+eC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Controllers\CrossSiteScriptingController.cs7 7(%
+%0"__mapSet*
+
+%ViewBagDataAllobject*	
+query*
+
+querystringµ
+²
+o
+eC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Controllers\CrossSiteScriptingController.cs7 7(%
+%1"__mapSet*
+
+%ViewBagDataHtmlobject*	
+query*
+""‡
+„
+o
+eC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Controllers\CrossSiteScriptingController.cs: :(+
+%2%Microsoft.AspNetCore.Http.HttpContext"7Microsoft.AspNetCore.Mvc.ControllerBase.HttpContext.get*+)
+'Microsoft.AspNetCore.Mvc.ControllerBase…
+‚
+o
+eC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Controllers\CrossSiteScriptingController.cs: :( ,
+%3&Microsoft.AspNetCore.Http.HttpResponse"2Microsoft.AspNetCore.Http.HttpContext.Response.get*-
++
+%2%Microsoft.AspNetCore.Http.HttpContext‹
+ˆ
+o
+eC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Controllers\CrossSiteScriptingController.cs: :((1
+%4+Microsoft.AspNetCore.Http.IHeaderDictionary"2Microsoft.AspNetCore.Http.HttpResponse.Headers.get*.
+,
+%3&Microsoft.AspNetCore.Http.HttpResponseî
+ë
+o
+eC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Controllers\CrossSiteScriptingController.cs: :(D
+
+%5void"__mapSet_IHeaderDictionary*3
+1
+%4+Microsoft.AspNetCore.Http.IHeaderDictionary*
+X-XSS-Protection*
+0Š
+‡
+o
+eC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Controllers\CrossSiteScriptingController.cs; ;(
+
+%6void"<vulnerablecoreapp-master/views/crosssitescripting/demotypeii*
+
+%7*
+	{unknown}*
+
+%ViewBagDataAllobject*
+
+%ViewBagDataHtmlobject*
+
+%TempDataAllobject*
+
+%TempDataHtmlobject* 
+
+%HttpContextItemsAllobject*!
+
+%HttpContextItemsHtmlobject÷
+ô
+o
+eC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Controllers\CrossSiteScriptingController.cs; ;(
+
+%8void")vulnerablecoreapp-master/views/_viewstart*
+
+%9*
+	{unknown}*
+
+%ViewBagDataAllobject*
+
+%ViewBagDataHtmlobject*
+
+%TempDataAllobject*
+
+%TempDataHtmlobject* 
+
+%HttpContextItemsAllobject*!
+
+%HttpContextItemsHtmlobjectý
+ú
+o
+eC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Controllers\CrossSiteScriptingController.cs; ;(
+%10void"-vulnerablecoreapp-master/views/shared/_layout*
+
+%11*
+	{unknown}*
+
+%ViewBagDataAllobject*
+
+%ViewBagDataHtmlobject*
+
+%TempDataAllobject*
+
+%TempDataHtmlobject* 
+
+%HttpContextItemsAllobject*!
+
+%HttpContextItemsHtmlobject"€
+o
+eC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Controllers\CrossSiteScriptingController.cs; ;(
+
+%10void*ý
+1o
+eC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Controllers\CrossSiteScriptingController.cs<	 <(	"†
+o
+eC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Controllers\CrossSiteScriptingController.cs< <(	
+implicit return*–
+2o
+eC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Controllers\CrossSiteScriptingController.cs55 5(5œ
+™
+o
+eC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Controllers\CrossSiteScriptingController.cs5 5('
+%12"__entrypoint*
+
+querystringÜ
+Ù
+o
+eC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Controllers\CrossSiteScriptingController.cs4	 4(
+%13"
+__annotate*@>
+<Microsoft.AspNetCore.Mvc.HttpGetAttribute.HttpGetAttribute()*
+
+querystringœ
+™
+o
+eC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Controllers\CrossSiteScriptingController.cs5( 5(4
+querystring"__annotation*
+
+%13*
+0:
+querystringB><
+:VulnerableCoreApp.Controllers.CrossSiteScriptingController

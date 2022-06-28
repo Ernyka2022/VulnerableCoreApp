@@ -1,0 +1,6 @@
+²
+/VulnerableCoreApp.Repository.CommentsRepositoryobject\
+CommentsRepository()DVulnerableCoreApp.Repository.CommentsRepository.CommentsRepository()D
+GetAll()8VulnerableCoreApp.Repository.CommentsRepository.GetAll()€
+&Save(VulnerableCoreApp.Models.Comment)VVulnerableCoreApp.Repository.CommentsRepository.Save(VulnerableCoreApp.Models.Comment)P
+Delete(string)>VulnerableCoreApp.Repository.CommentsRepository.Delete(string)

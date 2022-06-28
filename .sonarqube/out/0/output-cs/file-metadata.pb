@@ -1,0 +1,13 @@
+n
+eC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Controllers\CrossSiteScriptingController.csutf-8`
+WC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Controllers\HomeController.csutf-8T
+KC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Models\Comment.csutf-8[
+RC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Models\ErrorViewModel.csutf-8M
+DC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Program.csutf-8c
+ZC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Repository\CommentsRepository.csutf-8d
+[C:\Users\Administrator\Downloads\VulnerableCoreApp-master\Repository\ICommentsRepository.csutf-8M
+DC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Startup.csutf-8b
+YC:\Users\Administrator\Downloads\VulnerableCoreApp-master\ViewModels\CommentsViewModel.csutf-8a
+XC:\Users\Administrator\Downloads\VulnerableCoreApp-master\ViewModels\CommentViewModel.csutf-8Œ
+€C:\Users\Administrator\Downloads\VulnerableCoreApp-master\obj\Debug\netcoreapp2.0\.NETCoreApp,Version=v2.0.AssemblyAttributes.csutf-8~
+sC:\Users\Administrator\Downloads\VulnerableCoreApp-master\obj\Debug\netcoreapp2.0\VulnerableCoreApp.AssemblyInfo.csutf-8

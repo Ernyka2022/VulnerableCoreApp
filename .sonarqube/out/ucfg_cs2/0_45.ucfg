@@ -1,0 +1,103 @@
+
+FVulnerableCoreApp.Controllers.CrossSiteScriptingController.DemoTypeI()o
+eC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Controllers\CrossSiteScriptingController.cs (&"2*ä
+0o
+eC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Controllers\CrossSiteScriptingController.cs ( ¾
+»
+o
+eC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Controllers\CrossSiteScriptingController.cs) (;6
+%00VulnerableCoreApp.Repository.ICommentsRepository"__id*‰*†<
+:VulnerableCoreApp.Controllers.CrossSiteScriptingController"F
+commentsRepository0VulnerableCoreApp.Repository.ICommentsRepository©¦
+o
+eC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Controllers\CrossSiteScriptingController.cs) (D4
+%1.VulnerableCoreApp.ViewModels.CommentsViewModel"9VulnerableCoreApp.Repository.ICommentsRepository.GetAll()*8
+6
+%00VulnerableCoreApp.Repository.ICommentsRepository2GetAll()î
+ë
+o
+eC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Controllers\CrossSiteScriptingController.cs (D:
+comments.VulnerableCoreApp.ViewModels.CommentsViewModel"__id*6
+4
+%1.VulnerableCoreApp.ViewModels.CommentsViewModel¸
+µ
+o
+eC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Controllers\CrossSiteScriptingController.cs (!
+
+%2void";vulnerablecoreapp-master/views/crosssitescripting/demotypei*
+
+%3*<
+:
+comments.VulnerableCoreApp.ViewModels.CommentsViewModel*
+
+%ViewBagDataAllobject*
+
+%ViewBagDataHtmlobject*
+
+%TempDataAllobject*
+
+%TempDataHtmlobject* 
+
+%HttpContextItemsAllobject*!
+
+%HttpContextItemsHtmlobject¦
+£
+o
+eC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Controllers\CrossSiteScriptingController.cs (!
+
+%4void")vulnerablecoreapp-master/views/_viewstart*
+
+%5*<
+:
+comments.VulnerableCoreApp.ViewModels.CommentsViewModel*
+
+%ViewBagDataAllobject*
+
+%ViewBagDataHtmlobject*
+
+%TempDataAllobject*
+
+%TempDataHtmlobject* 
+
+%HttpContextItemsAllobject*!
+
+%HttpContextItemsHtmlobjectª
+§
+o
+eC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Controllers\CrossSiteScriptingController.cs (!
+
+%6void"-vulnerablecoreapp-master/views/shared/_layout*
+
+%7*<
+:
+comments.VulnerableCoreApp.ViewModels.CommentsViewModel*
+
+%ViewBagDataAllobject*
+
+%ViewBagDataHtmlobject*
+
+%TempDataAllobject*
+
+%TempDataHtmlobject* 
+
+%HttpContextItemsAllobject*!
+
+%HttpContextItemsHtmlobject"
+o
+eC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Controllers\CrossSiteScriptingController.cs ("
+
+
+%6void*ý
+1o
+eC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Controllers\CrossSiteScriptingController.cs	 (	"†
+o
+eC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Controllers\CrossSiteScriptingController.cs (	
+implicit return*„
+2o
+eC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Controllers\CrossSiteScriptingController.cs( ((ˆ
+…
+o
+eC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Controllers\CrossSiteScriptingController.cs (&
+%8"__entrypoint*
+0B><
+:VulnerableCoreApp.Controllers.CrossSiteScriptingController

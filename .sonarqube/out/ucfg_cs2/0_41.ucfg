@@ -1,0 +1,62 @@
+
+‡VulnerableCoreApp.Startup.Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder, Microsoft.AspNetCore.Hosting.IHostingEnvironment)N
+DC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Startup.cs ("0*²
+0N
+DC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Startup.cs   (#Ô
+Ñ
+N
+DC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Startup.cs   (#
+
+%0bool"yMicrosoft.AspNetCore.Hosting.HostingEnvironmentExtensions.IsDevelopment(Microsoft.AspNetCore.Hosting.IHostingEnvironment)*=";
+9Microsoft.AspNetCore.Hosting.HostingEnvironmentExtensions*9
+7
+env0Microsoft.AspNetCore.Hosting.IHostingEnvironment*
+1
+2*ð
+1N
+DC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Startup.cs" "(/•
+’
+N
+DC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Startup.cs" "(/6
+%10Microsoft.AspNetCore.Builder.IApplicationBuilder"‰Microsoft.AspNetCore.Builder.DeveloperExceptionPageExtensions.UseDeveloperExceptionPage(Microsoft.AspNetCore.Builder.IApplicationBuilder)*A"?
+=Microsoft.AspNetCore.Builder.DeveloperExceptionPageExtensions*9
+7
+app0Microsoft.AspNetCore.Builder.IApplicationBuilder*
+3*÷
+2N
+DC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Startup.cs& &(5œ
+™
+N
+DC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Startup.cs& &(66
+%20Microsoft.AspNetCore.Builder.IApplicationBuilder"…Microsoft.AspNetCore.Builder.ExceptionHandlerExtensions.UseExceptionHandler(Microsoft.AspNetCore.Builder.IApplicationBuilder, string)*;"9
+7Microsoft.AspNetCore.Builder.ExceptionHandlerExtensions*9
+7
+app0Microsoft.AspNetCore.Builder.IApplicationBuilder*
+/Home/Error*
+3*’
+3N
+DC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Startup.cs) 0(ñ
+î
+N
+DC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Startup.cs) )( 6
+%30Microsoft.AspNetCore.Builder.IApplicationBuilder"rMicrosoft.AspNetCore.Builder.StaticFileExtensions.UseStaticFiles(Microsoft.AspNetCore.Builder.IApplicationBuilder)*5"3
+1Microsoft.AspNetCore.Builder.StaticFileExtensions*9
+7
+app0Microsoft.AspNetCore.Builder.IApplicationBuilderÃ
+À
+N
+DC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Startup.cs+ 0(6
+%40Microsoft.AspNetCore.Builder.IApplicationBuilder"°Microsoft.AspNetCore.Builder.MvcApplicationBuilderExtensions.UseMvc(Microsoft.AspNetCore.Builder.IApplicationBuilder, System.Action<Microsoft.AspNetCore.Routing.IRouteBuilder>)*@">
+<Microsoft.AspNetCore.Builder.MvcApplicationBuilderExtensions*9
+7
+app0Microsoft.AspNetCore.Builder.IApplicationBuilder*
+""*
+4*º
+4N
+DC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Startup.cs1	 1(	"e
+N
+DC:\Users\Administrator\Downloads\VulnerableCoreApp-master\Startup.cs1 1(	
+implicit return:7
+app0Microsoft.AspNetCore.Builder.IApplicationBuilder:7
+env0Microsoft.AspNetCore.Hosting.IHostingEnvironmentB
+VulnerableCoreApp.Startup

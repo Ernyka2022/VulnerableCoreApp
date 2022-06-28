@@ -1,0 +1,8 @@
+ù
+:VulnerableCoreApp.Controllers.CrossSiteScriptingController#Microsoft.AspNetCore.Mvc.Controller'Microsoft.AspNetCore.Mvc.ControllerBaseobject‹
+NCrossSiteScriptingController(VulnerableCoreApp.Repository.ICommentsRepository)âVulnerableCoreApp.Controllers.CrossSiteScriptingController.CrossSiteScriptingController(VulnerableCoreApp.Repository.ICommentsRepository)M
+Index()BVulnerableCoreApp.Controllers.CrossSiteScriptingController.Index()U
+DemoTypeI()FVulnerableCoreApp.Controllers.CrossSiteScriptingController.DemoTypeI()Ø
+8DemoTypeI(VulnerableCoreApp.ViewModels.CommentViewModel)sVulnerableCoreApp.Controllers.CrossSiteScriptingController.DemoTypeI(VulnerableCoreApp.ViewModels.CommentViewModel)m
+DemoTypeIDelete(string)RVulnerableCoreApp.Controllers.CrossSiteScriptingController.DemoTypeIDelete(string)c
+DemoTypeII(string)MVulnerableCoreApp.Controllers.CrossSiteScriptingController.DemoTypeII(string)
